@@ -49,7 +49,9 @@
 </div>
 
 ###
-<img src="https://github.com/jose-GuilhermeG/jose-GuilhermeG/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://github.com/Jose-GuilhermeG/jose-GuilhermeG/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 ###
 
 <div>
